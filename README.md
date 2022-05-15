@@ -4,6 +4,8 @@ A passionate **Front-end Developer** from India. I really enjoy building the **F
 
 Feel free to visit my portfolio website **[gulshansongara.netlify.app](https://gulshansongara.netlify.app)** to know more about me and explore some of my recent projects.
 
+Currently, I'm open to **Job opportunities** where I can contribute and enhance my knowledge and skills.
+
 ---
 
 ### **Languages and Tools I Know**:
@@ -33,10 +35,7 @@ Feel free to visit my portfolio website **[gulshansongara.netlify.app](https://g
 ### **Connect with me on**:
 
 <p align="left">
-  <a href="https://linkedin.com/in/gulshan-songara-75084214b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulshan-songara-75084214b" height="30" width="30" /></a>
-
-  <a href="https://instagram.com/gulsun_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gulsun_404" height="30" width="30" /></a>
-
+  <a href="https://linkedin.com/in/gulshan-songara-75084214b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulshan-songara-75084214b" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/gulsun_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gulsun_404" height="30" width="30" /></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/c/codesplash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codesplash" height="30" width="30" /></a>
 </p>
