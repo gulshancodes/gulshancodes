@@ -4,8 +4,6 @@ A passionate and self-taught **Front-end Developer** from India. I really enjoy 
 
 Feel free to visit my portfolio website **[gulshansongara.netlify.app](https://gulshansongara.netlify.app)** to find more about me and explore some of my recent projects.
 
-Currently, I'm open to **Job opportunities** where I can contribute and enhance my knowledge and skills.
-
 ---
 
 ### **Languages and Tools I Know**:
