@@ -2,7 +2,7 @@
 
 A passionate and self-taught **Front-end Developer** from India. I really enjoy building the **Front-end of Websites** and occasionally **Designing**. Other than that, I'm passionate about **Photography**.
 
-Feel free to visit my portfolio website **[gulshansongara.netlify.app](https://gulshansongara.netlify.app)** to find more about me and explore some of my recent projects.
+Feel free to visit my portfolio website **[gulshansongara.netlify.app](https://gulshansongara.netlify.app)** to find out more about me and explore some of my recent projects.
 
 ---
 
@@ -23,6 +23,9 @@ Feel free to visit my portfolio website **[gulshansongara.netlify.app](https://g
   
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> </a>&nbsp;
+
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="30" height="30"/> </a>&nbsp;
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>&nbsp;
