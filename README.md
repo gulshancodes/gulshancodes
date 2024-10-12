@@ -1,7 +1,6 @@
 ## 👋 Hi there, I'm Gulshan
 
-A passionate and self-taught **Front-end Developer** from India.
-I really enjoy building the **Front-end of Websites and Mobile Apps**.
+A passionate and self-taught **Front-end Developer** from India. I really enjoy building the **Front-end of Websites and Mobile Apps**.
 
 Feel free to visit my portfolio website **[gulshansongara.netlify.app](https://gulshansongara.netlify.app)** to find out more about me and explore some of my recent projects.
 
